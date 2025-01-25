@@ -1,0 +1,76 @@
+{
+    "configuration" : {a
+        "@" : {
+            "junos:changed-seconds" : "1803154403",
+            "junos:changed-localtime" : "2024-11-21 13:15:05 CET"
+        },
+        "vlans" : {
+            "vlan" : [
+            {
+                "name" : "DC1-1056",
+                "vlan-id" : 1056
+            },
+            {
+                "name" : "DC1-1057",
+                "vlan-id" : 1057
+            },
+            {
+                "name" : "DC1-1058",
+                "vlan-id" : 1058
+            },
+            {
+                "name" : "DC1-1060",
+                "vlan-id" : 1060
+            },
+            {
+                "name" : "DC1-1062",
+                "vlan-id" : 1062
+            },
+            {
+                "name" : "DC1-1066",
+                "vlan-id" : 1066
+            },
+            {
+                "name" : "DC1-1067",
+                "vlan-id" : 1067
+            },
+            {
+                "name" : "DC1-1068",
+                "vlan-id" : 1068
+            },
+            {
+                "name" : "DC1-1073",
+                "vlan-id" : 1073
+            },
+            {
+                "name" : "DC1-1075",
+                "vlan-id" : 1075
+            },
+            {
+                "name" : "DC1-1076",
+                "vlan-id" : 1076
+            },
+            {
+                "name" : "DC1-1079",
+                "vlan-id" : 1079
+            },
+            {
+                "name" : "DC1-1080",
+                "vlan-id" : 1080
+            },
+            {
+                "name" : "DC1-1082",
+                "vlan-id" : 1082
+            },
+            {
+                "name" : "DC1-1083",
+                "vlan-id" : 1083
+            },
+            {
+                "name" : "DC1-1084",
+                "vlan-id" : 1084
+            }
+            ]
+        }
+    }
+}
